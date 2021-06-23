@@ -1,9 +1,9 @@
 /* Custom properties/variables  */
 :root {
     --main-white: #f0f0f0;
-    --main-red: #be3144;
-    --main-blue: #45567d;
-    --main-gray: #303841;
+    --main-red: #5F939A;
+    --main-blue: #3A6351;
+    --main-gray: #A0937D;
   }
   
   /* Base reset */
@@ -191,6 +191,7 @@
     grid-gap: 4rem;
     width: 100%;
     max-width: 1280px;
+    height: 400px;
     margin: 0 auto;
     margin-bottom: 6rem;
   }
